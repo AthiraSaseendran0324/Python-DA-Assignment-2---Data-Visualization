@@ -3,6 +3,8 @@
 ##  About
 Thi assignment focuses on data cleaning and data visualization using Python. The Seaborn Taxis dataset is used to explore taxi trips, fare distributions, and relationships between numerical variables.
 
+google colab link : https://colab.research.google.com/drive/1LXpME_FtIgHRttN0_P2mUu4xipyAdJke?usp=sharing
+
 ##  Objectives
 - Load and explore the Taxis dataset.
 - Identify and handle missing values.
